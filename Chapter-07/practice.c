@@ -46,6 +46,7 @@
 // }
 
 ///////////////////////////////////////////////////////////////////////////////
+
 // write a program to store gloden ratio in array
 
 // # include <stdio.h>
@@ -71,4 +72,26 @@
 //     }
 // }
 
+///////////////////////////////////////////////////////////////////////////////
+// 2D array
+
+// # include <stdio.h>
+// int main(){
+//     int array[2][10];
+//     int num2=2;
+//     int num3=3;
+//     for( int i=0; i<10; i++){
+//         array[0][i]=(i+1)*num2;
+//     }
+//     for( int i=0; i<10; i++){
+//         array[1][i]=(i+1)*num3;
+//     }
+//     for( int i=0; i<10; i++){
+//         printf("%d\n",array[0][i]);
+//     }
+//     for( int i=0; i<10; i++){
+//         printf("%d\n",array[1][i]);
+//     }
+//     return 0;
+// }
 
