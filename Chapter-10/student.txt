@@ -1,0 +1,3 @@
+student name is :shafi
+student roll Number is :101
+student CGPA is :7.500000
